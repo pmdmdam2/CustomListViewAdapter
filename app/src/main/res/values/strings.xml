@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomListViewAdapter</string>
+    <string name="hero_image">Hero picture</string>
+</resources>
