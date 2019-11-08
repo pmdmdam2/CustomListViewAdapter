@@ -12,3 +12,11 @@ El ListView se ha diseñado para que permita selección simple de sus elementos.
 El modelo de datos de la lista está basado en el POJO constituido por la clase Heroe.
 
 A continuación se muestra el diseño de las interfaces de la aplicación:
+
+![Interfaz principal](https://raw.githubusercontent.com/pmdmdam2/CustomListViewAdapter/master/app/src/main/assets/clvw1.png)
+
+![Interfaz de los item de la lista](https://raw.githubusercontent.com/pmdmdam2/CustomListViewAdapter/master/app/src/main/assets/clvw2.png)
+
+A continuación se muetra una captura de la aplicación en ejecución:
+
+![Aplicación en ejecución](https://raw.githubusercontent.com/pmdmdam2/CustomListViewAdapter/master/app/src/main/assets/clvw3.png)
